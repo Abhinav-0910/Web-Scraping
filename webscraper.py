@@ -40,12 +40,10 @@ for i in range(2,8):
     print(len(Review))
 
 
-'''df=pd.DataFrame({"Product Name ":Pname, "Price":Price,"Description":Pdes,"Reviews":Review})
+df=pd.DataFrame({"Product Name ":Pname, "Price":Price,"Description":Pdes,"Reviews":Review})
 print(df)
 
 df.to_csv("C:/Users/DELL/Desktop/python files/flipcart_mobiles_under_50000.csv")
-
-'''
 
 
 '''np = s.find("a", class_="_1LKTO3").get("href")
