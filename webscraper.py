@@ -45,7 +45,3 @@ print(df)
 
 df.to_csv("C:/Users/DELL/Desktop/python files/flipcart_mobiles_under_50000.csv")
 
-
-'''np = s.find("a", class_="_1LKTO3").get("href")
-cnp="https://www.flipkart.com"+np
-print(cnp)'''
